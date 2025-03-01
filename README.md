@@ -31,11 +31,15 @@ Ensure you have the following installed:
 # Clone the repository
 git clone https://github.com/fathmamehnoor/AssistAI.git
 cd AssistAI
+```
 
+```bash
 # Create a virtual environment (optional)
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
+```bash
 # Install dependencies
 pip install pip chromadb openai sentence-transformers python-dotenv
 
