@@ -35,13 +35,19 @@ cd AssistAI
 
 ```bash
 # Create a virtual environment (optional)
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+#### In Windows
+```bash
+# Create a virtual environment (optional)
+python -m venv venv
+source venv\Scripts\activate
 ```
 
 ```bash
 # Install dependencies
-pip install pip chromadb openai sentence-transformers python-dotenv
+pip install chromadb openai sentence-transformers python-dotenv
 
 ```
 
@@ -53,8 +59,13 @@ OPENAI_API_KEY="your_api_key"
 
 ### Running the AI Agent
 ```bash
-python knowledge_base.py  # Run this once to set up the knowledge base
-python ai_agent.py  # Start the chatbot
+python3 knowledge_base.py  # Run this once to set up the knowledge base
+python3 ai_agent.py  # Start the chatbot
+```
+#### In Windows
+```bash
+python3 knowledge_base.py  
+python3 ai_agent.py 
 ```
 
 ## Example Conversations
