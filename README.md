@@ -38,7 +38,7 @@ cd AssistAI
 python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
-#### In Windows
+##### In Windows
 ```bash
 # Create a virtual environment (optional)
 python -m venv venv
@@ -62,7 +62,7 @@ OPENAI_API_KEY="your_api_key"
 python3 knowledge_base.py  # Run this once to set up the knowledge base
 python3 ai_agent.py  # Start the chatbot
 ```
-#### In Windows
+##### In Windows
 ```bash
 python3 knowledge_base.py  
 python3 ai_agent.py 
