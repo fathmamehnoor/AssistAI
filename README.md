@@ -56,7 +56,7 @@ OPENAI_API_KEY="your_api_key"
 python3 knowledge_base.py  # Run this once to set up the knowledge base. On Windows use `python knowledge_base.py`
 python3 ai_agent.py  # Start the chatbot. On Windows use `python ai_agent.py`
 
-
+```
 ## Example Conversations
 
 Customer Support AI Agent (Type 'exit' to quit)
