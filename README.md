@@ -64,7 +64,7 @@ Customer Support AI Agent (Type 'exit' to quit)
 **You:** How much does the PowerBook Pro cost?  
 **AI:** The PowerBook Pro costs $1299. It features a 15.6" Retina display, 512GB SSD storage, 16GB RAM, and an Intel i7 processor. It's available in Space Gray and Silver colors.
 
-**You:** what is the warranty period for SmartWatch Elite?<br>  
+**You:** what is the warranty period for SmartWatch Elite?                                                                                                                                                                                                                          
 **AI:** The SmartWatch Elite comes with a 1-year limited warranty.  
 
 **You:** Is there an option to pay for my orders using installments?  
