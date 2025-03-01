@@ -1,0 +1,31 @@
+EXAMPLE QUESTIONS AND EXPECTED ANSWERS
+
+Q: "How much does the UltraPhone X cost?"
+A: "The UltraPhone X costs $799. It's available in Black, Silver, and Blue colors."
+
+Q: "What are your shipping options?"
+A: "We offer standard shipping (3-5 business days) for $4.99 and express shipping (1-2 business days) for $12.99. Orders over $50 qualify for free standard shipping. We also offer international shipping to select countries for an additional fee, but we don't ship to P.O. boxes."
+
+Q: "Can I return a PowerBook Pro if I don't like it?"
+A: "Yes, you can return the PowerBook Pro within 30 days if it's unused and in its original packaging. Note that opened items may incur a 15% restocking fee. Return shipping is free for defective products."
+
+Q: "What colors does the SmartWatch Elite come in and is it in stock?"
+A: "The SmartWatch Elite comes in Black, White, and Red colors. It's currently in limited stock."
+
+Q: "Do AudioPods Max have noise cancellation? And how long does the battery last?"
+A: "Yes, the AudioPods Max feature noise cancellation technology. They have a 24-hour battery life and include touch controls for easy operation."
+
+Q: "What warranty comes with the HomeAssist Speaker?"
+A: "The HomeAssist Speaker comes with a 1-year limited warranty. Please note that the warranty doesn't cover accidental damage or water damage, and you'll need proof of purchase for warranty service."
+
+Q: "Can I pay for my order in installments?"
+A: "Yes, we offer installment payment plans for purchases over $300. We also accept all major credit cards, PaySecure digital wallet, and store credit/gift cards."
+
+Q: "Do you keep my personal information secure?"
+A: "Yes, we take your privacy seriously. Your information is never sold to third parties, and all data is stored securely using industry-standard encryption. You can request deletion of your personal information at any time."
+
+Q: "What features does the PowerBook Pro have?"
+A: "The PowerBook Pro features a 15.6" Retina display, 512GB SSD storage, 16GB RAM, and an Intel i7 processor. It's available in Space Gray and Silver colors for $1299."
+
+Q: "Is there a restocking fee for returns?"
+A: "A 15% restocking fee may apply for opened items. Unused items in original packaging can be returned within 30 days without a restocking fee."

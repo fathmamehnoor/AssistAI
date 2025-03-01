@@ -1,0 +1,36 @@
+PRODUCT INFORMATION:
+
+Product: UltraPhone X
+Price: $799
+Features: 6.5" OLED display, 128GB storage, 12MP camera, Face Recognition
+Colors: Black, Silver, Blue
+Availability: In stock
+Warranty: 1-year limited warranty
+
+Product: PowerBook Pro
+Price: $1299
+Features: 15.6" Retina display, 512GB SSD, 16GB RAM, Intel i7 processor
+Colors: Space Gray, Silver
+Availability: In stock
+Warranty: 2-year limited warranty
+
+Product: SmartWatch Elite
+Price: $349
+Features: Heart rate monitor, GPS, 2-day battery life, Water resistant
+Colors: Black, White, Red
+Availability: Limited stock
+Warranty: 1-year limited warranty
+
+Product: AudioPods Max
+Price: $199
+Features: Noise cancellation, 24-hour battery life, Touch controls
+Colors: White, Black
+Availability: In stock
+Warranty: 1-year limited warranty
+
+Product: HomeAssist Speaker
+Price: $129
+Features: Voice assistant, Room-filling sound, Smart home controls
+Colors: Charcoal, Sand
+Availability: In stock
+Warranty: 1-year limited warranty
