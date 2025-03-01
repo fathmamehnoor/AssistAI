@@ -11,7 +11,6 @@ collection = chroma_client.get_collection(name="support_knowledge")
 # Load environment variables
 load_dotenv()
 
-
 # Retrieve OpenAI API key (ensure it is set correctly)
 openai_api_key = os.getenv("OPENAI_API_KEY")
 if not openai_api_key:
@@ -22,6 +21,8 @@ if not openai_api_key:
 client = OpenAI(api_key=openai_api_key)
 model_name = "gpt-4o"
 
+# Store previous interaction for session memory
+context = []
 
 def retrieve_knowledge(query):
     
@@ -30,23 +31,35 @@ def retrieve_knowledge(query):
 
 
 def chat(user_query):
+
+    global context
     
     knowledge = retrieve_knowledge(user_query)
 
-    prompt = f"Answer the customer's query using this knowledge:\n\n{knowledge}\n\nCustomer: {user_query}\nAI:"
+    conversation_history = "\n".join(context[-3:])
+
+    prompt = f"""You are a helpful customer support AI. Answer the customer's query using this knowledge:\n\n
+    {knowledge}\n
+    Here is the recent conversation history to maintain context:
+    {conversation_history}\n
+    Customer: {user_query}\n
+    AI:"""
 
     # Generate AI response using OpenAI model
     response = client.chat.completions.create(
         messages=[{"role": "system", "content": prompt}],
         model=model_name
-    )
-    
-    return response.choices[0].message.content
+    ).choices[0].message.content
 
+    context.append(f"Customer: {user_query}")
+    context.append(f"AI: {response}")
+    
+    return response
 
 if __name__ == "__main__":
   
     print("Customer Support AI Agent (Type 'exit' to quit)\n")
+    print("AI: Hello! How can I assist you today?\n")
 
     while True:
         user_query = input("You: ") 

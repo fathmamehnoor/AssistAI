@@ -13,10 +13,12 @@ This project implements a customer support AI agent that retrieves relevant info
 ### 2. Query Processing & Retrieval
 - When a user query is received, it is processed by ChromaDB to find the most relevant knowledge snippet using similarity search.
 - The retrieved information is used to provide context-aware responses.
+- The AI agent maintains session-based memory, allowing it to remember previous interactions within the same session. This enables more natural conversations by tracking user context and follow-ups.
 
 ### 3. Response Generation
 - The AI agent takes the retrieved knowledge and formulates a response using an OpenAI model (`gpt-4o`).
 - The response is generated based on the context of the knowledge and the user's query.
+- The agent also includes conversational enhancements such as greeting the user, suggesting related products, and offering additional assistance based on previous queries.
 
 ## Setup Instructions
 
