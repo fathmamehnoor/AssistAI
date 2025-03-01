@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/customer-support-ai.git
+git clone https://github.com/fathmamehnoor/AssistAI.git
 cd AssistAI
 
 # Create a virtual environment (optional)
@@ -55,7 +55,7 @@ python ai_agent.py  # Start the chatbot
 
 ## Example Conversations
 
-# Customer Support AI Agent (Type 'exit' to quit)
+Customer Support AI Agent (Type 'exit' to quit)
 
 **You:** How much does the PowerBook Pro cost?  
 **AI:** The PowerBook Pro costs $1299. It features a 15.6" Retina display, 512GB SSD storage, 16GB RAM, and an Intel i7 processor. It's available in Space Gray and Silver colors.
