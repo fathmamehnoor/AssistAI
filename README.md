@@ -35,14 +35,8 @@ cd AssistAI
 
 ```bash
 # Create a virtual environment (optional)
-python3 -m venv venv
+python3 -m venv venv # On Windows use 'python -m venv venv'
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-```
-##### In Windows
-```bash
-# Create a virtual environment (optional)
-python -m venv venv
-source venv\Scripts\activate
 ```
 
 ```bash
@@ -59,14 +53,9 @@ OPENAI_API_KEY="your_api_key"
 
 ### Running the AI Agent
 ```bash
-python3 knowledge_base.py  # Run this once to set up the knowledge base
-python3 ai_agent.py  # Start the chatbot
-```
-##### In Windows
-```bash
-python3 knowledge_base.py  
-python3 ai_agent.py 
-```
+python3 knowledge_base.py  # Run this once to set up the knowledge base. On Windows use 'python knowledge_base.py'.
+python3 ai_agent.py  # Start the chatbot. On Windows use 'python ai_agent.py'
+
 
 ## Example Conversations
 
