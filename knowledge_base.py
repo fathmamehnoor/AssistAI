@@ -1,5 +1,6 @@
 import chromadb
 import os
+import torch
 from sentence_transformers import SentenceTransformer
 
 # Initialize ChromaDB with persistent storage
@@ -7,8 +8,10 @@ chroma_client = chromadb.PersistentClient(path="./chromadb")
 collection = chroma_client.get_or_create_collection(name="support_knowledge")
 
 # Use SentenceTransformers embeddings
-embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+device = "cuda" if torch.cuda.is_available() else "cpu"
+embedding_model = SentenceTransformer("all-MiniLM-L6-v2", device=device)
 
+print(f"Model is using device: {embedding_model.device}")
 # Load data text files
 def load_data():
     data_dir = "data" 

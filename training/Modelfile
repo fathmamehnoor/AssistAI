@@ -1,0 +1,11 @@
+FROM llama2:7b-chat
+
+# Set custom parameters
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+PARAMETER top_k 40
+
+# System prompt for customer support
+SYSTEM You are a helpful customer support assistant. Answer questions based on company policies and be professional and friendly.
+
+# Load training data

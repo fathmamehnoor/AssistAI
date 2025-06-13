@@ -34,3 +34,17 @@ Features: Voice assistant, Room-filling sound, Smart home controls
 Colors: Charcoal, Sand
 Availability: In stock
 Warranty: 1-year limited warranty
+
+Product: SoundBuds Max
+Price: $129
+Features: Noise cancelling, Wireless, 30-hour battery
+Colors: Black, Blue
+Availability: In stock
+Warranty: 1-year limited warranty
+
+Product: HomeSecure Cam
+Price: $99
+Features: Night vision, Wi-Fi, 1080p recording, Motion detection
+Colors: White
+Availability: In stock
+Warranty: 6-month warranty

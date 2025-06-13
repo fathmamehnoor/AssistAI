@@ -29,3 +29,33 @@ A: "The PowerBook Pro features a 15.6" Retina display, 512GB SSD storage, 16GB R
 
 Q: "Is there a restocking fee for returns?"
 A: "A 15% restocking fee may apply for opened items. Unused items in original packaging can be returned within 30 days without a restocking fee."
+
+Q: "How do I track my order once it’s shipped?"
+A: "Once your order ships, you’ll receive an email with a tracking link. You can also log into your account to check the order status."
+
+Q: "Do you ship internationally?"
+A: "Yes, we offer international shipping to select countries for an additional fee. Please check the shipping options during checkout."
+
+Q: "Is the SmartWatch Elite water resistant?"
+A: "Yes, the SmartWatch Elite is water resistant and suitable for everyday use, including workouts and light splashes."
+
+Q: "Can I use store credit and a credit card for the same purchase?"
+A: "Yes, you can combine store credit or a gift card with a credit card payment during checkout."
+
+Q: "What happens if I accidentally damage my product?"
+A: "Unfortunately, accidental damage and water damage are not covered under the standard warranty. You may want to explore extended protection plans at checkout."
+
+Q: "Are there any products with GPS tracking?"
+A: "Yes, the SmartWatch Elite includes built-in GPS tracking along with a heart rate monitor and 2-day battery life."
+
+Q: "How long is the warranty for the UltraPhone X?"
+A: "The UltraPhone X comes with a 1-year limited warranty. Proof of purchase is required for warranty service."
+
+Q: "Can I return an item bought with a gift receipt?"
+A: "Yes, items purchased with a gift receipt can be returned for store credit only."
+
+Q: "Do you offer protection plans?"
+A: "Yes, we offer extended protection plans that can be added during checkout. These plans cover additional issues beyond the manufacturer's warranty."
+
+Q: "Why can't I ship to a P.O. box?"
+A: "Due to carrier restrictions and tracking limitations, we do not currently offer shipping to P.O. boxes."

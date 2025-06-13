@@ -1,0 +1,120 @@
+### Human: What are your express delivery options?
+
+### Assistant: Express shipping is available and takes 1-2 business days. It costs $12.99.
+
+### Human: Is there any shipping fee waived?
+
+### Assistant: Yes, we offer free standard shipping on orders over $50.
+
+### Human: Can I return something without the original box?
+
+### Assistant: Returns are accepted only for unused items in their original packaging. Without the original packaging, the return may be denied.
+
+### Human: What's your return policy for defective electronics?
+
+### Assistant: Defective products can be returned within 30 days, and return shipping is free.
+
+### Human: Do you support EMI or split payments?
+
+### Assistant: Yes, installment payment plans are available for purchases over $300.
+
+### Human: What warranty do your electronics come with?
+
+### Assistant: All electronics include the manufacturer's warranty. You can also purchase extended protection plans at checkout.
+
+### Human: Do you offer international delivery?
+
+### Assistant: Yes, we ship internationally to select countries for an extra fee.
+
+### Human: Can I use a digital wallet to pay?
+
+### Assistant: Yes, we accept the PaySecure digital wallet in addition to major credit cards and gift cards.
+
+### Human: Do you ship to military addresses or P.O. boxes?
+
+### Assistant: No, we currently do not ship to P.O. boxes or military addresses.
+
+### Human: What happens if I damage my device accidentally?
+
+### Assistant: Unfortunately, accidental or water damage is not covered under our standard warranty.
+
+### Human: Are gift cards refundable?
+
+### Assistant: Gift cards are non-refundable, but they can be used toward any purchase.
+
+### Human: What personal data do you store?
+
+### Assistant: We store only necessary information and use industry-standard encryption. You can request deletion of your data at any time.
+
+### Human: Can I unsubscribe from marketing emails?
+
+### Assistant: Yes, all marketing communications require opt-in, and you can unsubscribe at any time.
+
+### Human: What if I modify the product myself? Is the warranty still valid?
+
+### Assistant: Modifying or repairing a product by unauthorized persons voids the warranty.
+
+### Human: How long does SmartWatch Elite's battery last?
+
+### Assistant: The SmartWatch Elite offers up to 2-day battery life and includes GPS and heart rate monitoring.
+
+### Human: How much storage does the UltraPhone X come with?
+
+### Assistant: The UltraPhone X comes with 128GB of storage.
+
+### Human: Can I return a special order item?
+
+### Assistant: No, special order items are non-returnable.
+
+### Human: Is the PowerBook Pro still available?
+
+### Assistant: Yes, the PowerBook Pro is currently in stock.
+
+### Human: Can I pay using cash or check?
+
+### Assistant: No, we do not accept checks or money orders.
+
+### Human: Are your products water resistant?
+
+### Assistant: The SmartWatch Elite is water resistant, but not all products are. Please refer to the individual product details.
+
+### Human: I received the wrong item. What can I do?
+
+### Assistant: Please contact support. If the item is incorrect, we will arrange free return shipping and a replacement.
+
+### Human: Can I request store credit instead of a refund?
+
+### Assistant: Yes, if you return an item with a gift receipt, you'll receive store credit.
+
+### Human: Is my info sold to advertisers?
+
+### Assistant: No, we never sell customer data to third parties.
+
+### Human: How long does it take to process a return?
+
+### Assistant: Returns are typically processed within 5–7 business days after receiving the item.
+
+### Human: Do you accept crypto payments?
+
+### Assistant: Currently, we do not support cryptocurrency payments.
+
+### Human: Is the PowerBook Pro good for video editing?
+
+### Assistant: Yes, with a 15.6" Retina display, 512GB SSD, and 16GB RAM, it's well-suited for video editing.
+
+### Human: What's the camera quality like on the UltraPhone X?
+
+### Assistant: The UltraPhone X features a 12MP camera with Face Recognition and a 6.5" OLED display.
+
+### Human: How do I know if my country is eligible for international shipping?
+
+### Assistant: During checkout, eligible countries will be listed if international shipping is available.
+
+### Human: How do I track my shipment?
+
+### Assistant: Once your order ships, you'll receive a tracking number via email or SMS.
+
+### Human: Can I upgrade shipping after placing an order?
+
+### Assistant: Please contact support immediately. If the order hasn't shipped yet, we may be able to upgrade your shipping.
+
